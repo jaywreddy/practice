@@ -1,0 +1,9 @@
+To Build:
+
+$cd build
+$cmake ..
+$make
+
+To Run:
+(in build dir)
+$./weather
